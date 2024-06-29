@@ -1,0 +1,7 @@
+To find the Flutter SDK path [ used Windows10 ]
+
+In your Android Studio home page on the bottom right click on Configure
+Then Click on SDK Manager
+Then on System Settings
+Then on AndroidSDK
+You will see the path at the top
